@@ -1,0 +1,29 @@
+.blue {
+    color: blue;
+    font-weight: bold;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    text-orientation: upright;
+    background-image: url(/Users/ramieter/Desktop/Projects/Dasmotos_Arts&Crafts/resources/pattern.jpeg);
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.head {
+    background-color: mediumspringgreen ;
+}
+.body {
+    background-color:  lightcoral;
+}
+.foot {
+    background-color: skyblue ;
+}
